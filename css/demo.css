@@ -1,0 +1,32 @@
+nav ul{
+    background-color: plum;
+}
+section p{
+    color: red;
+}
+
+footer.am{
+    border: 2px solid;
+}
+section{
+    padding: 10px;
+}
+.links a:first-child{
+    color: yellow;
+}
+.links a:last-child{
+    text-decoration: underline;
+
+}
+li{
+    margin-bottom:10px;
+}
+.paragraphs {
+    border: 2px solid;
+}
+.links{
+    font-weight: bold;
+}
+div .para{
+    font-size: 20px;
+}

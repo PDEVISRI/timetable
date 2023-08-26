@@ -1,0 +1,9 @@
+/*footer::after{
+    text
+}*/
+nav ul::marker{
+ 
+}
+.col1::first-letter{
+    color: blue;
+}
